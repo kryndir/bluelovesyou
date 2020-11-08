@@ -1,5 +1,6 @@
 # bluelovesyou
 Game submission for the LiquidHacks 2020 Hackathon!
+Please check out the following link to play the game in-browser: https://kryndir.itch.io/blue-loves-you
 
 DESCRIPTION:
 "Blue Loves You" is our text-based game submission for LiquidHacks 2020. The game is a simple combination of visual novel basics with an approach towards health and wellness, as the player and Blue chat and do some self-care exercises together.
