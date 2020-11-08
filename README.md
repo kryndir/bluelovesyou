@@ -16,8 +16,8 @@ Art // Adobe Photoshop;
 Music // BeepBox
 
 CREDITS:
-	Adrianna McCoy //
-	Maddy Cherrier //
-	Marshall Robinson
+	Adrianna "anntokki" McCoy //
+	Maddy "kryndir" Cherrier //
+	Marshall "Bubbylo" Robinson
 
 Background art by: https://opengameart.org/content/animated-cityscape-backgroundwallpaper
