@@ -11,13 +11,13 @@ DEV NOTES:
 Thank you so much for checking out our hackathon submission! Although our group did not qualify for the beginner category, we were all very inexperienced with non-game software development practices. Though "Blue Loves You" was not our original plan for the hackathon, we were happy to be able to put something together for this very incredible opportunity, and we hope you enjoy our game!
 
 RESOURCES:
-Game Engine -- Unity
-Art -- Adobe Photoshop
-Music -- BeepBox
+Game Engine // Unity;
+Art // Adobe Photoshop;
+Music // BeepBox
 
 CREDITS:
-Adrianna McCoy
-Maddy Cherrier
-Marshall Robinson
+	Adrianna McCoy //
+	Maddy Cherrier //
+	Marshall Robinson
 
 Background art by: https://opengameart.org/content/animated-cityscape-backgroundwallpaper
