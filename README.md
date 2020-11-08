@@ -14,3 +14,10 @@ RESOURCES:
 Game Engine -- Unity
 Art -- Adobe Photoshop
 Music -- BeepBox
+
+CREDITS:
+Adrianna McCoy
+Maddy Cherrier
+Marshall Robinson
+
+Background art by: https://opengameart.org/content/animated-cityscape-backgroundwallpaper
